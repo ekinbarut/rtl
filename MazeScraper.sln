@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Domain", "MazeScraper.Domain\MazeScraper.Domain.csproj", "{77F2553C-69DE-4F91-B7AA-26C4175D6435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Data", "MazeScraper.Data\MazeScraper.Data.csproj", "{5B698B13-5000-4554-AE7E-B15AAAC17963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Console", "MazeScraper.Console\MazeScraper.Console.csproj", "{5191DDE6-B32E-4402-B2C6-8256B8E2391C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Common", "MazeScraper.Common\MazeScraper.Common.csproj", "{D9283825-CF93-4897-90CB-BB76F7D3474E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Client", "MazeScraper.Client\MazeScraper.Client.csproj", "{1E1DD739-824D-497F-96BD-D254DE90687E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeScraper.Api", "MazeScraper.Api\MazeScraper.Api.csproj", "{E59B2487-5B64-4B95-AFAC-056413D43A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F2553C-69DE-4F91-B7AA-26C4175D6435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2553C-69DE-4F91-B7AA-26C4175D6435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2553C-69DE-4F91-B7AA-26C4175D6435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2553C-69DE-4F91-B7AA-26C4175D6435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B698B13-5000-4554-AE7E-B15AAAC17963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B698B13-5000-4554-AE7E-B15AAAC17963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B698B13-5000-4554-AE7E-B15AAAC17963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B698B13-5000-4554-AE7E-B15AAAC17963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5191DDE6-B32E-4402-B2C6-8256B8E2391C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5191DDE6-B32E-4402-B2C6-8256B8E2391C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5191DDE6-B32E-4402-B2C6-8256B8E2391C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5191DDE6-B32E-4402-B2C6-8256B8E2391C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9283825-CF93-4897-90CB-BB76F7D3474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9283825-CF93-4897-90CB-BB76F7D3474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9283825-CF93-4897-90CB-BB76F7D3474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9283825-CF93-4897-90CB-BB76F7D3474E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1DD739-824D-497F-96BD-D254DE90687E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1DD739-824D-497F-96BD-D254DE90687E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1DD739-824D-497F-96BD-D254DE90687E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1DD739-824D-497F-96BD-D254DE90687E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59B2487-5B64-4B95-AFAC-056413D43A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59B2487-5B64-4B95-AFAC-056413D43A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59B2487-5B64-4B95-AFAC-056413D43A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59B2487-5B64-4B95-AFAC-056413D43A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

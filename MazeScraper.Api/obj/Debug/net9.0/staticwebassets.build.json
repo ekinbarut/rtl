@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "siGdZGhSFYjLu9MAg+Xv+w3ceJcQyT9tXiFxA+ZgXMA=",
+  "Source": "MazeScraper.Api",
+  "BasePath": "_content/MazeScraper.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
