@@ -6,4 +6,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MazeScraper.Common\MazeScraper.Common.csproj" />
+      <ProjectReference Include="..\MazeScraper.Data\MazeScraper.Data.csproj" />
+    </ItemGroup>
+
 </Project>

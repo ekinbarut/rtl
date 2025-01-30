@@ -1,0 +1,17 @@
+bin/
+obj/
+*.user
+*.userosx
+*.suo
+*.sln.docstates
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+wwwroot/
+node_modules/
+.vscode/
+*~
+*.bak
+*.swp
+*.tmp

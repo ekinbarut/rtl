@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeScraper.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+008238a786c4ecfefb7dbc4fe19aa53d2b746ec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7e0721e9fa8d2c7b04fd51ddb86f624097cba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeScraper.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeScraper.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,3 @@
-/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/appsettings.Development.json
 /Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/appsettings.json
 /Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Api.staticwebassets.endpoints.json
 /Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Api
@@ -27,3 +26,20 @@
 /Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScraper.Api.pdb
 /Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScraper.Api.genruntimeconfig.cache
 /Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/ref/MazeScraper.Api.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/DnsClient.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MongoDB.Bson.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MongoDB.Driver.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/SharpCompress.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/Snappier.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/ZstdSharp.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Common.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Data.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Domain.dll
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Common.pdb
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Data.pdb
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Domain.pdb
+/Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScraper.Api.csproj.AssemblyReference.cache
+/Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScra.7D9EF896.Up2Date
