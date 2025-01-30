@@ -1,6 +1,6 @@
 ﻿namespace MazeScraper.Client;
 
-public class TvMazeClient
+public class TvMazeClient : ITvMazeClient
 {
     private readonly HttpClient _httpClient;
     private readonly ILogger<TvMazeClient> _logger;

@@ -1,17 +1,67 @@
+# .NET Core / .NET 5+ specific files
 bin/
 obj/
-*.user
-*.userosx
-*.suo
-*.sln.docstates
+.vs/
+.vscode/
 .idea/
-.DS_Store
-Thumbs.db
-Desktop.ini
+.packages/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+
+# ASP.NET specific files
 wwwroot/
 node_modules/
-.vscode/
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider specific
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Linux specific files
 *~
-*.bak
-*.swp
-*.tmp
+
+# Build results
+out/
+build/
+publish/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET config files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Local history for Rider/IntelliJ
+.idea/.idea*
+
+# NUGET
+*.nupkg
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files for Rider
+.idea/
+
+# VS Code directories
+.vscode/
+
+# .NET SDK output directories
+bin/
+obj/

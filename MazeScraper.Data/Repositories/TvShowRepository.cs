@@ -1,4 +1,4 @@
-namespace MazeScraper.Data;
+namespace MazeScraper.Data.Services;
 
 public class TvShowRepository : ITvShowRepository
 {

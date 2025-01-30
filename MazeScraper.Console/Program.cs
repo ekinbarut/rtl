@@ -1,3 +1,5 @@
+using MazeScraper.Data.Services;
+
 namespace MazeScraper.Console;
 
 public class Program
@@ -26,7 +28,7 @@ public class Program
 
         services.AddLogging(config => config.AddConsole());
 
-        services.AddHttpClient<TvMazeClient>();
+        services.AddHttpClient<ITvMazeClient, TvMazeClient>();
 
         services.AddSingleton<MongoDbContext>();
         services.AddScoped<ITvShowRepository, TvShowRepository>();

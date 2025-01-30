@@ -2,7 +2,7 @@
 
 public class ScraperService
 {
-    private readonly TvMazeClient _client;
+    private readonly ITvMazeClient _client;
     private readonly ITvShowRepository _showRepository;
     private readonly ICastRepository _castRepository;
     private readonly ILogger<ScraperService> _logger;
@@ -14,7 +14,7 @@ public class ScraperService
     private const int MaxShowCount = 1000; // times amount of cast to keep in memory before bulk operation
 
     public ScraperService(
-        TvMazeClient client,
+        ITvMazeClient client,
         ITvShowRepository showRepository,
         ICastRepository castRepository,
         ILogger<ScraperService> logger)

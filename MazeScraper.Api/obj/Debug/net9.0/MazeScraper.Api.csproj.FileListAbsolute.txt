@@ -43,3 +43,4 @@
 /Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/MazeScraper.Domain.pdb
 /Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScraper.Api.csproj.AssemblyReference.cache
 /Users/ekin/git/rtl/MazeScraper.Api/obj/Debug/net9.0/MazeScra.7D9EF896.Up2Date
+/Users/ekin/git/rtl/MazeScraper.Api/bin/Debug/net9.0/appsettings.Development.json
